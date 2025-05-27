@@ -1,0 +1,13 @@
+{
+    "name": "com.sack-gear.terrain_standard_for_vrclightvolumes",
+    "displayName": "TerrainStandardForVRCLightVolumes",
+    "version": "0.1.0",
+    "unity": "2022.3",
+    "description": "Unity標準Terrain用StandardシェーダーのVRCLightVolumes対応版",
+    "author": {
+        "name": "sack-gear",
+        "url": "https://github.com/sack-gear"
+    },
+    "license": "MIT",
+    "licenseUrl": "https://github.com/sack-kazu/TerrainStandardForVRCLightVolumes/blob/main/LICENSE"
+}
