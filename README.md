@@ -1,0 +1,2 @@
+# TerrainStandardForVRCLightVolumes
+Unity標準Terrain用StandardシェーダーのVRCLightVolumes対応版
